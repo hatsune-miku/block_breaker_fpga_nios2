@@ -1,0 +1,94 @@
+E:/data/project/block_breaker/pll2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/pll2.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pll2
+-- Compiling architecture rtl of pll2
+
+} {} {}} E:/data/project/block_breaker/vga_ctrl.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/vga_ctrl.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity vga_ctrl
+-- Compiling architecture vga_ctrl_arch of vga_ctrl
+
+} {} {}} E:/data/project/block_breaker/vga_ctrl.vht {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/vga_ctrl.vht
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity vga_ctrl_vhd_tst
+-- Compiling architecture main_arch of vga_ctrl_vhd_tst
+
+} {} {}} E:/data/project/block_breaker/renderer.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/renderer.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity renderer
+-- Compiling architecture renderer_arch of renderer
+
+} {} {}} E:/data/project/block_breaker/rand.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/rand.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity rand
+-- Compiling architecture rand_arch of rand
+
+} {} {}} E:/data/project/block_breaker/rand.vht {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/rand.vht
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity rand_vhd_tst
+-- Compiling architecture main_arch of rand_vhd_tst
+
+} {} {}} E:/data/project/block_breaker/data_merge.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/data_merge.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity data_merge
+-- Compiling architecture data_merge_arch of data_merge
+
+} {} {}} E:/data/project/block_breaker/data_merge.vht {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/data/project/block_breaker/data_merge.vht
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity data_merge_vhd_tst
+-- Compiling architecture main_arch of data_merge_vhd_tst
+
+} {} {}}

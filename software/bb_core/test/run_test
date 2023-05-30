@@ -1,0 +1,3 @@
+#!sh
+
+cmake --build build && cd build && ./bb_test && cd ..

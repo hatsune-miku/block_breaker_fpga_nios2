@@ -1,0 +1,39 @@
+cmake_minimum_required(VERSION 3.16)
+
+project(bb_test)
+
+enable_testing()
+
+set(CMAKE_C_COMPILER /usr/bin/gcc)
+
+include_directories(
+    "."
+    "fake_env"
+    "../src"
+    "../src/**"
+)
+
+set(
+    lib_srcs
+    "../src/chrono/chrono.c"
+    "../src/core_game/core_game.c"
+    "../src/core_io/core_io.c"
+    "../src/logging/logging.c"
+)
+
+set(
+    easytest_srcs
+    "framework/easytest.c"
+)
+
+set(
+    srcs
+    "test_main.c"
+)
+
+add_executable(
+    bb_test
+    ${lib_srcs}
+    ${easytest_srcs}
+    ${srcs}
+)

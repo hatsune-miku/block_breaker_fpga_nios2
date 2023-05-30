@@ -1,0 +1,4 @@
+/mnt/e/data/project/block_breaker/software/bb_core/test/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/data/project/block_breaker/software/bb_core/test/build/CMakeFiles/edit_cache.dir
+/mnt/e/data/project/block_breaker/software/bb_core/test/build/CMakeFiles/test.dir
+/mnt/e/data/project/block_breaker/software/bb_core/test/build/CMakeFiles/bb_test.dir

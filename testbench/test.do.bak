@@ -1,0 +1,7 @@
+# Test rand.
+
+quit -sim
+vsim -voptargs=+acc rand_vhd_tst
+add wave *
+run 500ns
+

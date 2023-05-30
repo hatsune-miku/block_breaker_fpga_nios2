@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "nios2",
+            "includePath": [
+                "D:/ProgramData/intelFPGA_lite/21.1/nios2eds/bin/gnu/H-x86_64-mingw32/**",
+                "E:/data/project/block_breaker/software/bb_core/**",
+                "E:/data/project/block_breaker/software/bb_core_bsp/**",
+                "E:/data/project/block_breaker/software/bb_core_bsp/HAL/**",
+                "E:/data/project/block_breaker/software/bb_core_bsp/HAL/inc/**",
+                "E:/data/project/block_breaker/software/bb_core_bsp/drivers/inc/**"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

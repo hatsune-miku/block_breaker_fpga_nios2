@@ -1,0 +1,184 @@
+# vga_ctrl_vhd_tst
+# VGA Controller
+# Compile of rand.vhd was successful.
+# Compile of data_merge.vhd was successful.
+# Compile of pll2.vhd was successful.
+# Compile of renderer.vhd was successful.
+# Compile of vga_ctrl.vhd was successful.
+# Compile of rand.vht was successful.
+# Compile of data_merge.vht was successful.
+# Compile of vga_ctrl.vht was successful.
+# 8 compiles, 0 failed with no errors.
+# vsim -voptargs="+acc" vga_ctrl_vhd_tst 
+# Start time: 01:03:37 on Apr 08,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.math_real(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.vga_ctrl_vhd_tst(main_arch)#1
+# Loading work.vga_ctrl(vga_ctrl_arch)#1
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: EGGTARTc  Hostname: CANAR-EGGTARTC  ProcessID: 28384
+#           Attempting to use alternate WLF file "./wlftj4ve9k".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftj4ve9k
+# 1
+# 1
+# 1
+# 1
+# Pass
+# Pass
+# Pass
+# Pass
+# 1. [Pass] Can correctly generate VGA clock
+# 2. [Pass] Can correctly set blank_n to One
+# 3. [Pass] Can correctly set sync_n to Zero
+# 4. [Pass] Can correctly generate white color for the ball
+# 1
+# ok
+# ** Error: invalid command name "else"
+# Error in macro E:\data\project\block_breaker\sim\test_vga_ctrl.do line 43
+# invalid command name "else"
+#     while executing
+# "else {
+#   tk_messageBox -title "Test Result" -icon error -message "Module Name:\n$MODULE_NAME\n\nTestcases:\n$TSET_CASES\n\nverall Test Result:\nFail!"..."
+# vga_ctrl_vhd_tst
+# VGA Controller
+# End time: 01:04:18 on Apr 08,2022, Elapsed time: 0:00:41
+# Errors: 1, Warnings: 5
+# Compile of rand.vhd was successful.
+# Compile of data_merge.vhd was successful.
+# Compile of pll2.vhd was successful.
+# Compile of renderer.vhd was successful.
+# Compile of vga_ctrl.vhd was successful.
+# Compile of rand.vht was successful.
+# Compile of data_merge.vht was successful.
+# Compile of vga_ctrl.vht was successful.
+# 8 compiles, 0 failed with no errors.
+# vsim -voptargs="+acc" vga_ctrl_vhd_tst 
+# Start time: 01:04:19 on Apr 08,2022
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.math_real(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.vga_ctrl_vhd_tst(main_arch)#1
+# Loading work.vga_ctrl(vga_ctrl_arch)#1
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: EGGTARTc  Hostname: CANAR-EGGTARTC  ProcessID: 28384
+#           Attempting to use alternate WLF file "./wlfty2ywwf".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfty2ywwf
+# 1
+# 1
+# 1
+# 1
+# Pass
+# Pass
+# Pass
+# Pass
+# 1. [Pass] Can correctly generate VGA clock
+# 2. [Pass] Can correctly set blank_n to One
+# 3. [Pass] Can correctly set sync_n to Zero
+# 4. [Pass] Can correctly generate white color for the ball
+# 1
+# ok
+# ** Error: invalid command name "else"
+# Error in macro E:\data\project\block_breaker\sim\test_vga_ctrl.do line 43
+# invalid command name "else"
+#     while executing
+# "else {
+#   tk_messageBox -title "Test Result" -icon error -message "Module Name:\n$MODULE_NAME\n\nTestcases:\n$TSET_CASES\n\nverall Test Result:\nFail!"..."
+# rand_vhd_tst
+# Clock-based Pseudo Random Number Generator
+# 1. Random number vaires with rising edge
+# End time: 02:46:59 on Apr 08,2022, Elapsed time: 1:42:40
+# Errors: 1, Warnings: 4
+# Compile of rand.vhd was successful.
+# Compile of data_merge.vhd was successful.
+# Compile of pll2.vhd was successful.
+# Compile of renderer.vhd was successful.
+# Compile of vga_ctrl.vhd was successful.
+# Compile of rand.vht was successful.
+# Compile of data_merge.vht was successful.
+# Compile of vga_ctrl.vht was successful.
+# 8 compiles, 0 failed with no errors.
+# vsim -voptargs="+acc" rand_vhd_tst 
+# Start time: 02:47:00 on Apr 08,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.math_real(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.rand_vhd_tst(main_arch)#1
+# Loading work.rand(rand_arch)#1
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: EGGTARTc  Hostname: CANAR-EGGTARTC  ProcessID: 28384
+#           Attempting to use alternate WLF file "./wlftkykgdw".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftkykgdw
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /rand_vhd_tst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /rand_vhd_tst
+# 1
+# ok
+# ** Error: invalid command name "else"
+# Error in macro E:\data\project\block_breaker\sim\test_rand.do line 29
+# invalid command name "else"
+#     while executing
+# "else {
+#   tk_messageBox -title "Test Result" -icon error -message "Module Name:\n$MODULE_NAME\n\nTestcases:\n$TSET_CASES\n\nverall Test Result:\nFail!"..."
+# data_merge_vhd_tst
+# Data Merger
+# 1. high32bit=11100000000000000000000000000111, mid32bit=00011111111111111111111111111000, low8bit=11110011, expecting result=111000000000000000000000000001110001111111111111111111111111100011110011
+# End time: 02:47:38 on Apr 08,2022, Elapsed time: 0:00:38
+# Errors: 1, Warnings: 6
+# Compile of rand.vhd was successful.
+# Compile of data_merge.vhd was successful.
+# Compile of pll2.vhd was successful.
+# Compile of renderer.vhd was successful.
+# Compile of vga_ctrl.vhd was successful.
+# Compile of rand.vht was successful.
+# Compile of data_merge.vht was successful.
+# Compile of vga_ctrl.vht was successful.
+# 8 compiles, 0 failed with no errors.
+# vsim -voptargs="+acc" data_merge_vhd_tst 
+# Start time: 02:47:40 on Apr 08,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.math_real(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.data_merge_vhd_tst(main_arch)#1
+# Loading work.data_merge(data_merge_arch)#1
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: EGGTARTc  Hostname: CANAR-EGGTARTC  ProcessID: 28384
+#           Attempting to use alternate WLF file "./wlft89y61i".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft89y61i
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /data_merge_vhd_tst
+# 1
+# ok
+# ** Error: invalid command name "else"
+# Error in macro E:\data\project\block_breaker\sim\test_data_merge.do line 29
+# invalid command name "else"
+#     while executing
+# "else {
+#   tk_messageBox -title "Test Result" -icon error -message "Module Name:\n$MODULE_NAME\n\nTestcases:\n$TSET_CASES\n\nverall Test Result:\nFail!"..."
+# End time: 14:21:22 on Apr 08,2022, Elapsed time: 11:33:42
+# Errors: 1, Warnings: 5
